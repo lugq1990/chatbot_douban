@@ -1,0 +1,11 @@
+bs4
+numpy
+pandas
+pymysql
+requests
+lxml
+pymongo
+elasticsearch
+elasticsearch_dsl
+flask
+flask-login
