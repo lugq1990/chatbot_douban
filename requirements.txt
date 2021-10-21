@@ -9,3 +9,4 @@ elasticsearch
 elasticsearch_dsl
 flask
 flask-login
+ConfigParser
