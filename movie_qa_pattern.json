@@ -1,0 +1,11 @@
+{"intents": ["name", "year", "alias", "duration", "direct_en", "actor_en", "writer_en", "short_disc_en"],
+"qa":{
+    "name":{
+        "q":["what is chinese name of {}?", "may I know what's chinese name of {}?", "chinese name of {}"],
+        "a":["movie {}'s chinese name is {}", "let me try to see? get it, movie {}'s chinese name is {}", "I have checked that for movie {}, chinese name is:{}" ]
+    },
+    "year":{
+        "q":["when {} is created?"],
+        "a":[]
+    }
+}}
